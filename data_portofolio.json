@@ -1,0 +1,86 @@
+{
+  "profile": {
+    "name": "Christian Ronaldo",
+    "role": "Creative Developer",
+    "location": "Samarinda, Indonesia",
+    "hobby": "Mobile Legends",
+    "bio": "Saya membuat website interaktif, interface menarik, dan project digital dengan sentuhan kreativitas.",
+    "image": "Cuplikan layar 2026-08-27 113909.png"
+  },
+
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "LV.09",
+      "description": "Struktur website",
+      "percentage": 90,
+      "icon": "🌐"
+    },
+    {
+      "name": "CSS",
+      "level": "LV.08",
+      "description": "Visual dan responsive design",
+      "percentage": 85,
+      "icon": "🎨"
+    },
+    {
+      "name": "JAVASCRIPT",
+      "level": "LV.04",
+      "description": "Interaksi dan DOM",
+      "percentage": 28,
+      "icon": "⚡"
+    },
+    {
+      "name": "UI / UX",
+      "level": "LV.01",
+      "description": "Interface dan pengalaman pengguna",
+      "percentage": 10,
+      "icon": "✏️"
+    }
+  ],
+
+  "missions": [
+    {
+      "date": "2026 — NOW",
+      "title": "Pendidikan",
+      "description": "SD 004, SMP 29, SMK TI Airlangga",
+      "icon": "🏫"
+    },
+    {
+      "date": "2026",
+      "title": "Web Development",
+      "description": "Mulai membangun berbagai project website.",
+      "icon": "💻"
+    },
+    {
+      "date": "2026",
+      "title": "UI / UX Exploration",
+      "description": "Mempelajari interface, layout, dan user experience.",
+      "icon": "🎨"
+    }
+  ],
+
+  "projects": [
+    {
+      "world": "WORLD 1",
+      "title": "Interactive Portfolio",
+      "description": "Portfolio website dengan animasi dan interaksi DOM.",
+      "icon": "🌐",
+      "url": "#"
+    },
+    {
+      "world": "WORLD 2",
+      "title": "Mini Game Collection",
+      "description": "Kumpulan game sederhana berbasis JavaScript.",
+      "icon": "🎮",
+      "url": "#"
+    },
+    {
+      "world": "WORLD 3",
+      "title": "Creative Experiment",
+      "description": "Eksperimen desain, coding, dan interaksi.",
+      "icon": "🚀",
+      "url": "#"
+    }
+  ]
+}
